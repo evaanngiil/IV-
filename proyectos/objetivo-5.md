@@ -40,7 +40,7 @@
 | <!-- Enlace de alvarorcs2002 -->                                                |         |           |
 | <!-- Enlace de eigenric -->                                                     |         |           |
 | <!-- Enlace de enger2003 -->                                                    |         |           |
-| <!-- Enlace de wickeet -->                                                      |         |           |
+| [Enlace de wickeet](https://github.com/wickeet/Tripoli/pull/36)                 | v0.5.6  |           |
 | <!-- Enlace de ChinChainis -->                                                  |         |           |
 | <!-- Enlace de anavaln -->                                                      |         |           |
 | <!-- Enlace de pablotl0 -->                                                     |         |           |
