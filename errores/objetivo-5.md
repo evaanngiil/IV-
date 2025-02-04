@@ -13,3 +13,5 @@ mismo que al principio. Como se ha dicho repetidamente, usar repetidamente AI
 para generar el código que se evalúa puede hacer que no se supere el objetivo.
 
 - Usar imágenes base con versiones. Y más si son versiones arbitrarias.
+
+- Escribir "esta imagen no es buena porque no tiene el lenguaje de programación". Se trata de que *vosotros* instaléis ese lenguaje y el resultado lo comparéis con otras imágenes en las que esté instalado. Si os limitáis a las imágenes que ya lo traen instalado os estáis perdiendo la mitad de las posibilidades de aprender a crear una imagen Docker.
