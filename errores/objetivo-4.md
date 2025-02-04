@@ -50,6 +50,11 @@ de producir código.
   biblioteca que agrupa los tests y que permite crear *fixtures*. Como se ve,
   son funciones muy diferentes.
 
+- Que haya una herramienta obvia para hacer algo no impide que se
+  consideren otras herramientas. En el caso de Go, `go test` no es la
+  única opción. No indicar siquiera qué criterios se han seguido en
+  ese área no sigue las directivas del guión.
+
 ## Sobre el código
 
 - Los issues deben plantear problemas, igual que en el objetivo 2. El código
