@@ -16,7 +16,7 @@
 | <!-- Enlace de clara99gf -->                                                        |         |           |
 | <!-- Enlace de Antoniogm03 -->                                                      |         |           |
 | <!-- Enlace de SantiGarvin -->                                                      |         |           |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/35)         | v0.5.12 |           |
+| [Enlace de evaanngiil](https://github.com/evaanngiil/WishfulGiving/pull/35)         | v0.5.14 |           |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/54)        | v0.5.1  | ✓         |
 | <!-- Enlace de GaelGoncalba -->                                                     |         |           |
 | [Enlace de abbonno](https://github.com/abbonno/healthScheduler/pull/38)             | v0.5.7  |           |
